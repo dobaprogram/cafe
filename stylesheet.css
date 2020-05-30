@@ -85,7 +85,7 @@ img{
 }
 
 #home{
-  background-image:url(../images/main-bg.jpg);
+  background-image:url(https://dobaprogram.github.io/cafe/main-bg.jpg);
   min-height:100vh;
   background-size: cover;
   background-position: center top;
